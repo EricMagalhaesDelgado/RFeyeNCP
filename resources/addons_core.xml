@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<addonCore>
+
+  <label>RFeye NCP Toolbox</label>
+
+  <version>1.0</version>
+
+  <type>Toolbox</type>
+
+  <identifier>19d2a0fc-87bc-4770-9c49-f386d3b64d9f</identifier>
+
+  <summary>RFeye NCP Toolbox.</summary>
+
+  <description>RFeye NCP toolbox.</description>
+
+  <createdBy name="Boon Khoo"/>
+
+  <image>resources/screenshot.png</image>
+
+</addonCore>
